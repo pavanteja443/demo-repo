@@ -1,6 +1,6 @@
 # Demo
 
-Some Description!
+This repo is to practice and learn Git
 
 ## Subheader
 
